@@ -32,4 +32,4 @@ analyzing retail store sales data across India.
 - 4 Interactive Slicers (Year, Month, Region, Payment Mode)
 
 ## Dashboard Preview
-![Dashboard](dashboard-preview.png)
+![Dashboard](Retail stores Dashboard.png)
